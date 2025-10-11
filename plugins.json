@@ -72,7 +72,7 @@
         "url": "https://gitlab.com/tearrs/movie/-/raw/main/HHkungfuProvider.cs3",
         "name": "HHkungfuProvider"
     },
-        {
+    {
         "iconUrl": "https://yanhh3d.net/storage/settings/August2024/YOoAwtlobLbwKhiFwRZv.png",
         "apiVersion": 1,
         "repositoryUrl": "https://gitlab.com/tearrs/cloudstream-vietnamese",
@@ -90,5 +90,23 @@
         "description": "Ho\u1ea1t h\u00ecnh Trung Qu\u1ed1c thuy\u1ebft minh",
         "url": "https://gitlab.com/tearrs/movie/-/raw/main/YanHH3DProvider.cs3",
         "name": "YanHH3DProvider"
+    },
+    {
+        "iconUrl": "https://www.shutterstock.com/image-vector/iptv-vector-line-icon-ip-260nw-1841427610.jpg",
+        "apiVersion": 1,
+        "repositoryUrl": "https://gitlab.com/tearrs/cloudstream-vietnamese",
+        "fileSize": 30703,
+        "status": 1,
+        "authors": [
+            "anhdaden"
+        ],
+        "tvTypes": [
+            "Live"
+        ],
+        "version": 9,
+        "internalName": "IPTVProvider",
+        "description": "C\u1ea7n nh\u1eadp link IPTV \u0111\u1ec3 xem",
+        "url": "https://gitlab.com/tearrs/cloudstream-vietnamese/-/raw/main/IPTVProvider.cs3",
+        "name": "IPTVProvider"
     }
 ]
