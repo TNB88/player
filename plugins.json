@@ -92,6 +92,24 @@
         "name": "YanHH3DProvider"
     },
     {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=phimlongtieng.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/leeshin5757/cloudstream-plugin-vn/tree/main",
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "balota"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 2,
+        "internalName": "PhimLongTiengProvider",
+        "url": "https://raw.githubusercontent.com/leeshin5757/cloudstream-plugin-vn/main/PhimLongTieng.cs3",
+        "name": "PhimLongTieng"
+    },
+    {
         "iconUrl": "https://www.shutterstock.com/image-vector/iptv-vector-line-icon-ip-260nw-1841427610.jpg",
         "apiVersion": 1,
         "repositoryUrl": "https://gitlab.com/tearrs/cloudstream-vietnamese",
